@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iemaildivyansh@Gmail.com**
 
-- ⚡ Fun fact **Coffe Over Chai**
+- ⚡ Fun fact **Coffee Over Chai**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
