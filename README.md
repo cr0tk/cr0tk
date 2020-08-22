@@ -1,32 +1,27 @@
-<a id="user-content-hi--im-divyansh-singh-parihar" class="anchor" aria-hidden="true" href="#hi--im-divyansh-singh-parihar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Divyansh Singh Parihar</h1>
-<h3 align="center"><a id="user-content-a-passionate-frontend-developer-from-india" class="anchor" aria-hidden="true" href="#a-passionate-frontend-developer-from-india"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>A passionate frontend developer from India</h3>
-<p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f26fc14d5d9c2a894c8156fc684ff8628fe002d2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d32382d64697679616e73686d6f6f6e"><img src="https://camo.githubusercontent.com/f26fc14d5d9c2a894c8156fc684ff8628fe002d2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d32382d64697679616e73686d6f6f6e" alt="28-divyanshmoon" data-canonical-src="https://komarev.com/ghpvc/?username=28-divyanshmoon" style="max-width:100%;"></a> </p>
-<ul>
-<li>
-<p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>Rising Indian</strong></p>
-</li>
-<li>
-<p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="https://github.com/cr0tk">https://github.com/cr0tk</a></p>
-</li>
-<li>
-<p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regulary write articles on [C Language](C Language)</p>
-</li>
-<li>
-<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:iemaildivyansh@Gmail.com">iemaildivyansh@Gmail.com</a></strong></p>
-</li>
-<li>
-<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>Cofee Over Chai</strong></p>
-</li>
-</ul>
-<p align="left"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9746fad22d915881af92a8c6a9663509a78ed4d2/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f616e64726f69642f616e64726f69642d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/9746fad22d915881af92a8c6a9663509a78ed4d2/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f616e64726f69642f616e64726f69642d6f726967696e616c2d776f72646d61726b2e737667" alt="android" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3e29f3845124e238ad9853de49c2b637140e8370/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f632f632d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/3e29f3845124e238ad9853de49c2b637140e8370/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f632f632d6f726967696e616c2e737667" alt="c" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="html5" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="python" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" style="max-width:100%;"></a></p><p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/51ad76a2604448ce28e4e188c8fad063325efd73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d32382d64697679616e73686d6f6f6e266c61796f75743d636f6d7061637426686964653d68746d6c"><img align="left" src="https://camo.githubusercontent.com/51ad76a2604448ce28e4e188c8fad063325efd73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d32382d64697679616e73686d6f6f6e266c61796f75743d636f6d7061637426686964653d68746d6c" alt="28-divyanshmoon" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=28-divyanshmoon&amp;layout=compact&amp;hide=html" style="max-width:100%;"></a></p>
-<p> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2bc73828fd97d6fbcee67e9145848adf801b83c1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d32382d64697679616e73686d6f6f6e2673686f775f69636f6e733d74727565"><img align="center" src="https://camo.githubusercontent.com/2bc73828fd97d6fbcee67e9145848adf801b83c1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d32382d64697679616e73686d6f6f6e2673686f775f69636f6e733d74727565" alt="28-divyanshmoon" data-canonical-src="https://github-readme-stats.vercel.app/api?username=28-divyanshmoon&amp;show_icons=true" style="max-width:100%;"></a></p>
+<h1 align="center">Hi 👋, I'm Divyansh Singh Parihar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cr0tk" alt="cr0tk" /> </p>
+
+- 🌱 I’m currently learning **Python And Java Script**
+
+- 📝 I regulary write articles on [Cyber Security](Cyber Security)
+
+- 💬 Ask me about **C Languaage**
+
+- 📫 How to reach me **iemaildivyansh@Gmail.com**
+
+- ⚡ Fun fact **Coffe Over Chai**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0tk&layout=compact&hide=html" alt="cr0tk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cr0tk&show_icons=true" alt="cr0tk" /></p>
+
 <p align="center">
-<a href="https://dev.to/https://dev.to/28divyanshmoon" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/4fbb07643873eb1980fdb2fc7d0b1530a6de516b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="https://dev.to/28divyanshmoon" height="30" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width:100%;"></a>
-<a href="https://twitter.com/https://twitter.com/divyans43910598" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/980f413492d9dd5110062cfe16bb3e616f4a03ba/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="https://twitter.com/divyans43910598" height="30" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width:100%;"></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyansh-singh-1877971a9/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="https://www.linkedin.com/in/divyansh-singh-1877971a9/" height="30" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a>
+<a href="https://dev.to/cr0tk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cr0tk" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyansh-singh-1877971a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/divyansh-singh-1877971a9/" height="30" width="30" /></a>
 </p>
-</article>
-  </div>
-</div>
-
-
