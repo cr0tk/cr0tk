@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Singh Parihar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and Author from India</h3>
 <a href="https://ibb.co/R05XYKy" align="centre"><img src="https://i.ibb.co/vPtNVWY/Purple-and-Black-Simple-Technology-Keynote-Presentation.png" alt="Purple-and-Black-Simple-Technology-Keynote-Presentation" border="0" ></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cr0tk" alt="cr0tk" /> </p>
 
