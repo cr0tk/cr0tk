@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/cr0tk/">
   <img align="left" alt="Divyansh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=cr0tk" alt="cr0tk" />
 <br />
 <br />
 
