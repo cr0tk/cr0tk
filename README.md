@@ -1,27 +1,44 @@
-<h1 align="center">Hi 👋, I'm Divyansh Singh Parihar</h1>
-<h3 align="center">A passionate frontend developer and Author from India</h3>
-<a href="https://ibb.co/R05XYKy" align="centre"><img src="https://i.ibb.co/vPtNVWY/Purple-and-Black-Simple-Technology-Keynote-Presentation.png" alt="Purple-and-Black-Simple-Technology-Keynote-Presentation" border="0" ></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cr0tk" alt="cr0tk" /> </p>
+### Hey 👋🏽, I'm [Divyansh!](https://divyanshsingh793.wixsite.com/website) 
 
-- 🌱 I’m currently learning **Python And Java Script**
+<a href="https://twitter.com/cr0tk">
+  <img align="left" alt="Divyansh Singh Parihar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/cr0tk">
+  <img align="left" alt="Divyansh's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/cr0tk/">
+  <img align="left" alt="Divyansh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 📝 I regulary write articles on [Cyber Security](Cyber Security)
+<br />
+<br />
 
-- 💬 Ask me about **C Languaage**
+Hi, I'm Divyansh Singh Parihar, a Front End Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@MeanWeb](https://github.com/cr0tk-Mean-Web), Freelancer 👨🏽‍💻 [@Rising Indian](https://www.risingindian.com/), and a Blogger [@Leisure Tech Time](https://divyanshsingh793.wixsite.com/website). Beside's programming, I enjoy watching anime and listning to podcast.
 
-- 📫 How to reach me **iemaildivyansh@Gmail.com**
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
 
-- ⚡ Fun fact **Coffee Over Chai**
+- 🌱 I’m currently learning Python and JavaScript;🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Coffee Over Chai(Tea)
+- 📫 How to reach me: iemaildivyansh@gmail.com;
+- 📝[About.me](https://about.me/cr0tk)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Languages and Tools:**  
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0tk&layout=compact&hide=html" alt="cr0tk" /></p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cr0tk&show_icons=true" alt="cr0tk" /></p>
 
-<p align="center">
-<a href="https://dev.to/cr0tk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cr0tk" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyansh-singh-1877971a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/divyansh-singh-1877971a9/" height="30" width="30" /></a>
-</p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=cr0tk&show_icons=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr0tk&layout=compact&hide=html" alt="cr0tk" />
+
+
+
